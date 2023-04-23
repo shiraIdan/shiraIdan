@@ -1,13 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Shira Idan
 ==========================================================================================================================================
 
-### About Me:
-
+### About Me
+==========================================================================================================================================
 - 🎓 3rd Year Computer Science Student.
 - 💪 Ambitious, self-motivated, hardworking and a great team player.
 - 📫 You can reach me at: shira25900@gmail.com
 
 ### Skills: 
+==========================================================================================================================================
 <p align="left">
  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -25,8 +26,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 </p>
 
-### LinkedIn:             
-             
+### LinkedIn:
+==========================================================================================================================================             
 <p align="left">                
            <a href="https://www.linkedin.com/in/shira-idan-01b399214/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
