@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shira Idan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),I'm Shira Idan
 ==========================================================================================================================================
 
 ### About Me:
 
--🎓 3rd Year Computer Science Student.
+- 🎓 3rd Year Computer Science Student.
 - 💪 Ambitious, self-motivated, hardworking and a great team player.
 - 📫 You can reach me at: shira25900@gmail.com
 
