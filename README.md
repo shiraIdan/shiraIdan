@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm shira idan
 
+🎓 I’m a 3rd year Computer Science student.
+💪 Ambitious, self-motivated, hardworking and a great team player.
+📫 You can reach me at: shira25900@gmail.com
+
+
+Skills
+HTML5 CSS3 Java Python JavaScript React C++   
 <!--
 **shiraIdan/shiraIdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
